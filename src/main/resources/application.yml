@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+comments-filter:
+  valid-params:
+    "author": "author"
+    "text": "text"
+
+
+
